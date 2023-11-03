@@ -1,0 +1,14 @@
+body{
+  background-image: url(1.jpg);
+}
+.container{
+  text-align: center;
+  padding-top: 50%;
+}
+a{
+  text-decoration: none;
+}
+h1{
+font-family: 'Lovers Quarrel', cursive;
+font-size: 18vw;
+}
